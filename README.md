@@ -44,10 +44,6 @@ Diplômé de l'EMSI, j'aime concevoir des applications web robustes, scalables e
 
 ---
 
----
-
----
-
 ### 📈 Mes Statistiques GitHub
 
 <p align="left">
@@ -56,12 +52,7 @@ Diplômé de l'EMSI, j'aime concevoir des applications web robustes, scalables e
 
 ---
 
-
----
-
-
----
-
 ### 🤝 Parlons ensemble !
-LinkedIn : https://www.linkedin.com/in/aghai-zakaria-965550226/?isSelfProfile=true <br>
-Email : aghai1zakaria@example.com
+
+  LinkedIn :https://www.linkedin.com/in/aghai-zakaria-965550226/?isSelfProfile=true <br>
+  Email : aghai1zakaria@gmail.com
