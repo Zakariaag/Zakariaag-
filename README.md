@@ -54,5 +54,5 @@ Diplômé de l'EMSI, j'aime concevoir des applications web robustes, scalables e
 ---
 
 ### 🤝 Parlons ensemble !
-LinkedIn : https://www.linkedin.com/in/aghai-zakaria-965550226/?isSelfProfile=true
+LinkedIn : https://www.linkedin.com/in/aghai-zakaria-965550226/?isSelfProfile=true <br>
 Email : aghai1zakaria@example.com
