@@ -44,12 +44,17 @@ Diplômé de l'EMSI, j'aime concevoir des applications web robustes, scalables e
 
 ---
 
+---
+
 ### 📈 Mes Statistiques GitHub
 
 <p align="left">
   <img src="https://vercel.app" alt="Stats GitHub de Zakaria" height="150" />
   <img src="https://vercel.app" alt="Langages les plus utilisés" height="150" />
 </p>
+
+---
+
 
 ---
 
